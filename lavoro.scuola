@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Istituto Vito Volterra </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #646464;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #000000;
+            overflow: hidden;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            float: left;
+        }
+        nav a:hover {
+            background-color: #aaaaaa;
+            color: rgb(180, 171, 171);
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #7e7e7e;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .main-content {
+            background-color: white;
+            padding: 20px;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Istituto Tecnico Tecnologico Statale "Vito Volterra"</h1>
+        <p>San Donà di piave (VE)</p>
+    </header>
+
+    <nav>
+        <a href="https://www.istitutovolterra.edu.it/la-scuola/">Scuola</a>
+        <a href="https://www.istitutovolterra.edu.it/servizi/">Servizi</a>
+        <a href="https://www.istitutovolterra.edu.it/novita/">Novità</a>
+        <a href="https://www.istitutovolterra.edu.it/didattica/">Didattica</a>
+    </nav>
+
+    <div class="container">
+        <div class="main-content">
+            <section id="home">
+                <h2>Benvenuti</h2>
+                <p>Il nostro istituto offre un'istruzione di alta qualità per tutti gli studenti. Esplora le sezioni per maggiori informazioni sui corsi e sui servizi.</p>
+            </section>
+
+            <section id="I nostri indirizzi">
+                <ul>
+                    <li><a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/grafica-e-comunicazione/">Grafica e comunicazione</a></li>
+                    <li><a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/elettronica-ed-automazione/">Elettrotecnica ed automazione</a></li>
+                    <li><a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/informatica-e-telecomunicazioni/">Informatica e telecomunicazione</a></li>
+                </ul>
+               
+            </section>
+
+        
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Istituto Vito Volterra Sandona - Tutti i diritti riservati</p>
+    </footer>
+
+</body>
+</html>
