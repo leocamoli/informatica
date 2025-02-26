@@ -49,6 +49,9 @@
             margin-top: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
+        table, th, td {
+  border:1px solid black;
+}
     </style>
 </head>
 <body>
@@ -84,6 +87,31 @@
         
         </div>
     </div>
+    <div class="container">
+        <div class="main-content">
+            <section id="home">
+                <h2>Evidenza</h2>
+                
+            </section>
+    <table style="width:100%">
+                <tr>
+                        <td><a href="https://www.istitutovolterra.edu.it/iscrizioni-a-s-2025-2026/">Iscrizioni a.s. 2025 – 2026</a></td>
+                        <td><a href="https://www.istitutovolterra.edu.it/esito-manifestazione-dinteresse-contratto-di-noleggio-autobus-a-s-2024-2025/">Esito manifestazione d’interesse contratto di noleggio autobus A.S. 2024-2025</a></td>
+                        <td><a href="https://www.istitutovolterra.edu.it/avviso-manifestazione-di-interesse-per-visite-distruzione-uscite-didattiche-pcto-di-un-giorno/">Avviso manifestazione di interesse per visite d’istruzione/uscite didattiche/PCTO di un giorno</a></td>
+                </tr> 
+                <tr>
+                        <td><a href="https://www.istitutovolterra.edu.it/pubblicazione-del-verbale-di-esito-manifestazione-di-interesse-per-viaggi-distruzione-a-s-2024-2025/">Pubblicazione del Verbale di esito Manifestazione di interesse per viaggi d’istruzione A.S. 2024/2025</a></td>
+                        <td><a href="https://www.istitutovolterra.edu.it/manifestazione-dinteresse-viaggi-distruzione-a-s-2024-2025/">Manifestazione d’interesse viaggi d’istruzione a.s. 2024-2025</a></td>
+                        <td><a href="https://www.istitutovolterra.edu.it/scuola-aperta-istituto-volterra-san-dona-di-piave-2024-2025/">Scuola Aperta Istituto Volterra – San Donà di Piave – 2024-2025</a></td>
+                </tr>
+                <tr>
+                        <td><a href="https://www.istitutovolterra.edu.it/fuori-di-banco-2024-orientamento/">Fuori di Banco 2024 – Orientamento</a></td>
+                        <td><a href="https://www.istitutovolterra.edu.it/scansione-oraria-prime-settimane-scuola/">Scansione oraria prime settimane scuola</a></td>
+                        <td><a href="https://www.istitutovolterra.edu.it/assunzione-servizio-in-data-02-09-2024/">Assunzione servizio in data 02/09/2024</a></td>
+                </tr>
+     </table>
+        </div>
+     </div>
 
     <footer>
         <p>&copy; Contatti
