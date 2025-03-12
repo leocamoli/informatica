@@ -80,12 +80,9 @@ body {
             </section>
 
             <section id="I nostri indirizzi">
-                <ul>
-                    <li><a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/grafica-e-comunicazione/">Grafica e comunicazione</a></li>
-                    <li><a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/elettronica-ed-automazione/">Elettrotecnica ed automazione</a></li>
-                    <li><a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/informatica-e-telecomunicazioni/">Informatica e telecomunicazione</a></li>
-                </ul>
-               
+           <a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/grafica-e-comunicazione/" class="btn btn-secondary" tabindex="-1" role="button" aria-disabled="true">Grafica e comunicazione</a>
+           <a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/elettronica-ed-automazione/" class="btn btn-secondary" tabindex="-1" role="button" aria-disabled="true">Elettrotecnica</a>
+            <a href="https://www.istitutovolterra.edu.it/indirizzo-di-studio/informatica-e-telecomunicazioni/" class="btn btn-secondary" tabindex="-1" role="button" aria-disabled="true">Informatica e telecomunicazine</a> 
             </section>
 
         
